@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Manomay</h1>
+<h3 align="center">I'm a Data Science enthusiast and currently a sophomore pursuing BTech degree in Artficial Intelligence & Data Science at VIT Pune.</h3>
 
-<!--
-**Manomay15/Manomay15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Manomay15&label=Profile%20views&color=0e75b6&style=flat" alt="Manomay15" /></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/Manomay_J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Manomay_J" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manomayjamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manomay15" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manomayj15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Manomay15" height="30" width="40" /></a>
+
+</p> <br>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manomay15&show_icons=true&&theme=gotham" alt="Manomay15" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manomay15&theme=tokyonight&layout=compact" width="28%" height="100%">
+</p>
