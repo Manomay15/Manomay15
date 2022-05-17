@@ -12,6 +12,6 @@
 
 </p> <br>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Manomay15" width="28%" height="100%">  
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Manomay15" width="58%" height="100%">  
   
 </p>
